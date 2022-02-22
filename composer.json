@@ -1,0 +1,6 @@
+{
+    "name": "openeuropa/composer-artifacts-test",
+    "description": "Test project, used in Composer Artifacts integration tests.",
+    "type": "library",
+    "require": {}
+}
